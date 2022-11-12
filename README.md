@@ -1,2 +1,2 @@
 # Snap
-Photo site held together by hopes, prayers, and a lot of duct tape.
+[WIP] Website to display my plant and wildlife photos.
