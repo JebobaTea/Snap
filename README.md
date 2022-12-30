@@ -8,3 +8,5 @@ Currently a WIP:
 --> 🔨 Change to a static site (No need for Flask)
 
 --> 🔨 Change content loading
+
+--> 🔨 Make design mobile responsive
